@@ -33,7 +33,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ishugoel21/chat-app.git
+   git clone https://github.com/ishugoel21/django-ichatApp.git
    cd chat-app
 
 2. Create a Virtual Environment (optional but recommended):
@@ -42,4 +42,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. Install required depenndencies
 
-4. run the serever "python manage.py runserver"
+4. run the serever
+   ```bash
+    python manage.py runserver
